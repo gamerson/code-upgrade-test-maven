@@ -20,7 +20,6 @@
 		<module>sample-lar-portlet</module>
 		<module>sample-permissions-portlet</module>
 		<module>sample-portal-service-portlet</module>
-		<module>sample-service-builder-portlet</module>
 		<module>sample-sign-in-portlet</module>
 		<module>sample-ui-search-container-taglib-portlet</module>
 		<module>sample-ui-taglibs-portlet</module>

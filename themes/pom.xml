@@ -10,17 +10,11 @@
 		<artifactId>liferay-project-maven</artifactId>
 		<version>1.0.0</version>
 	</parent>
-	<artifactId>hooks</artifactId>
+	<artifactId>themes</artifactId>
 	<packaging>pom</packaging>
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
 
 	<modules>
-		<module>sample-application-adapter-hook</module>
-		<module>sample-expando-hook</module>
-		<module>sample-servlet-filter-hook</module>
-		<module>sample-struts-action-hook</module>
-		<module>sample-wrapper-hook</module>
+		<module>sample-styled-minimal-theme</module>
+		<module>sample-unstyled-theme</module>
 	</modules>
 </project>
